@@ -1,4 +1,4 @@
-# Machine-Learning-Assignments-
+# Machine-Learning-Assignments
 The following codes are the assignments covered in our machine learning course.
 
 For this we worked in a group of 3 
