@@ -15,12 +15,14 @@ The scores we achieved for the assignmnets are as follows:
 **Project Description**:-
 
 1] **Classification and Regression** :- 
+
   Two data sets. are provided :
     a] 2-D data set in sample.pickle 
     b] Medical data set in diabetes.pickle  
   Our task is to make final recommendation for anyone using the model fro predicting diabetes level using the input features.
  
-2] **Hand Written Digits classification**
+2] **Hand Written Digits classification**:-
+
   Data sets used:-
     a] mnist_all.mat
     b] face_all.pickle 
@@ -29,6 +31,7 @@ The scores we achieved for the assignmnets are as follows:
   Also had to write a convolution neural network code and print the confusion matrix. 
 
 3] SVM and Logistic Regression:-
+
   * Implement Logistic Regression and give the prediction results
   * Use SVm to perform the classification
   * for extra credit: Implement the gradient descent minimization of multi-class Logistic Regression 
