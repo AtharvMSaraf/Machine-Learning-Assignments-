@@ -5,10 +5,14 @@ For this we worked in a group of 3
 
 The scores we achieved for the assignmnets are as follows:
 
-1] Assignment 1 - 100/100 
-2] Assignment 2 - 120/100
-2] Assignment 3 - 117/100
+1] Assignment 1 - 100/100
 
+2] Assignment 2 - 120/100
+
+3] Assignment 3 - 117/100
+
+
+**Project Description**:-
 1] **Classification and Regression** :- 
   Two data sets. are provided :
     a] 2-D data set in sample.pickle 
