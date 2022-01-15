@@ -13,6 +13,7 @@ The scores we achieved for the assignmnets are as follows:
 
 
 **Project Description**:-
+
 1] **Classification and Regression** :- 
   Two data sets. are provided :
     a] 2-D data set in sample.pickle 
